@@ -1,0 +1,17 @@
+node_modules
+.git
+.vscode
+*.log
+.env
+.env.*
+!/.env.production
+!/.env.preview
+!/.env.development.local
+!/.env.local
+!/.env.production.local
+!/.env.test.local
+dist
+coverage
+.DS_Store
+*.pem
+*.key
